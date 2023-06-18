@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🧐, I'm Vast</h1>
+<h1 align="center">Hi 🧐, I'm Mag1337</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
 <h3 align="left">Connect with me:</h3>
