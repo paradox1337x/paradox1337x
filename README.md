@@ -1,14 +1,25 @@
-<h1 align="center">VAST1337</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+![Header](./header.png)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UCI94pxRU-TibCzjdYD394_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mag1337x" height="30" width="40" /></a>
-<a href="https://discord.com/users/1069007486151037051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="! Mag#1337" height="30" width="40" /></a>
+<h1 align="center">ImVast</h1>
+<a href="https://github.com/imvast"></a>
+
+<p align="center">
+  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=vast1337x&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+  <img height="25" src="https://img.shields.io/github/followers/vast1337x?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+  <img height="25" src="https://img.shields.io/github/stars/vast1337x?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p>
+<h3 align="center">Current Known Languages: (best ➜ least)</h5>
+<p align="center">
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+  <code><img height="25" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="norefer![purple-sky-with-shining-stars-4h2qjs2chxmci8i2](https://github.com/vast1337x/vast1337x/assets/114198896/d6975177-dd10-4c50-92e8-ed6c0ae5a05e)rer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=imvast&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+</p>
 
-![e6847191fd1009e7bbff1706fd9e23b4](https://github.com/vast1337x/vast1337x/assets/114198896/9ebd0413-48ca-49b3-8087-38bbc5a57457)
+![Footer](./footer.png)
