@@ -1,8 +1,8 @@
 ![Header](./header.png)
 
-<h1 align="center">PARADOX1337</h1>
-
 <a href="https://discord.com/users/1069007486151037051"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/1069007486151037051?bg=23283d&borderRadius=8px&hideDiscrim=true"/></a>
+
+<h1 align="center">PARADOX1337</h1>
 
 <a href="https://github.com/imvast"></a>
 
